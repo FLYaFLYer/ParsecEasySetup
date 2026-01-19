@@ -1,3 +1,5 @@
+# There is only one problem now: scoop is installed via PowerShell, and the files are in the BAT extension. I'll fix it soon!
+
 # Parsec Easy Setup
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
